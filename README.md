@@ -1,4 +1,4 @@
-<h1>.env File</h1>
+<h1>Create .env File</h1>
 
 <pre>
 CohereAPIKey   = your-cohere-api-key
