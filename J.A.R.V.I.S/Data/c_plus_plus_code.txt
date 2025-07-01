@@ -1,0 +1,23 @@
+Here is an example of C++ code:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num1, num2, sum;
+
+    cout << "Enter the first number: ";
+    cin >> num1;
+    cout << "Enter the second number: ";
+    cin >> num2;
+
+    sum = num1 + num2;
+
+    cout << "The sum of the numbers is: " << sum << endl;
+
+    return 0;
+}
+```
+
+This code is a simple program that calculates the sum of two numbers. It uses the `cin` object to get the numbers from the user and the `cout` object to display the result. The `sum` variable is used to store the sum of the two numbers.

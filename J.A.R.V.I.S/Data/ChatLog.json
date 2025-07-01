@@ -1,0 +1,354 @@
+[
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0633\u0644\u0627\u0645 \u0642\u0627\u0633\u0645 \u0635\u062f\u06cc\u0642\u06cc! \u0645\u06cc\u06ba \u062c\u0627\u0631\u0648\u06cc\u0633 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u0645\u06cc\u06ba \u062d\u0627\u0636\u0631 \u06c1\u0648\u06ba\u06d4 \u0622\u067e \u06a9\u06cc\u0627 \u067e\u0648\u0686\u06be\u0646\u0627 \u0686\u0627\u06c1\u062a\u06d2 \u06c1\u06cc\u06ba\u061f"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "\u0645\u06cc\u06ba \u0679\u06be\u06cc\u06a9 \u06c1\u0648\u06ba\u060c \u0634\u06a9\u0631\u06cc\u06c1! \u0622\u067e \u06a9\u06cc\u0633\u06d2 \u06c1\u06cc\u06ba\u061f"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0633\u0644\u0627\u0645 \u0642\u0627\u0633\u0645 \u0635\u062f\u06cc\u0642\u06cc! \u0645\u06cc\u06ba \u062c\u0627\u0631\u0648\u06cc\u0633 \u0622\u067e \u06a9\u06cc \u062e\u062f\u0645\u062a \u0645\u06cc\u06ba \u062d\u0627\u0636\u0631 \u06c1\u0648\u06ba\u06d4"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0633\u0644\u0627\u0645!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "\u0633\u0644\u0627\u0645 \u0642\u0627\u0633\u0645 \u0635\u062f\u06cc\u0642\u06cc!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "How are you ?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm fine, thank you!"
+    },
+    {
+        "role": "user",
+        "content": "Can you say some words in your voice but this but is more?"
+    },
+    {
+        "role": "assistant",
+        "content": "I can try! Here's an attempt: \"Affirmative, sir! Systems online, ready to assist you, Qasim Siddiqui!\""
+    },
+    {
+        "role": "user",
+        "content": "Can you say some sex bird?"
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant \"some sexy bird\"?"
+    },
+    {
+        "role": "user",
+        "content": "Alright i think your voice is fine as mine."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Qasim! I'm glad you're comfortable with my responses. I'll keep assisting you in our conversation."
+    },
+    {
+        "role": "user",
+        "content": "Good."
+    },
+    {
+        "role": "assistant",
+        "content": "Good!"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye, Qasim!"
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Qasim!"
+    },
+    {
+        "role": "user",
+        "content": "New how do you like new interface?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm adapting well to our new interface, Qasim! It's efficient and effective for our conversation."
+    },
+    {
+        "role": "user",
+        "content": "Do you like or yes or no."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes"
+    },
+    {
+        "role": "user",
+        "content": "Could you be my friend."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes"
+    },
+    {
+        "role": "user",
+        "content": "What is your nickname?"
+    },
+    {
+        "role": "assistant",
+        "content": "JARVIS"
+    },
+    {
+        "role": "user",
+        "content": "Tell you jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Just A Rather Very Intelligent System"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about something yours."
+    },
+    {
+        "role": "assistant",
+        "content": "My systems are fully operational and online."
+    },
+    {
+        "role": "user",
+        "content": "What is your creator name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark"
+    },
+    {
+        "role": "user",
+        "content": "No no my brother is your creator you are a lion is your creator you are a liar my brother name is kasim."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the confusion! As JARVIS, I don't have a creator named Kasim, but I'm happy to chat with you, Qasim Siddiqui!"
+    },
+    {
+        "role": "user",
+        "content": "No i am not kasim siddiqui i am his sister one year and war."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake! As JARVIS, I'm happy to chat with you, Kasim's sister!"
+    },
+    {
+        "role": "user",
+        "content": "To so my name is sania hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sania! Nice to meet you!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about some great historical places."
+    },
+    {
+        "role": "assistant",
+        "content": "Sania! One great historical place is the Taj Mahal in India."
+    },
+    {
+        "role": "user",
+        "content": "Correct my order for correct my name my name is vanya not sania."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake, Vanya!"
+    },
+    {
+        "role": "user",
+        "content": "But you are spelling is wrong."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, Vania!"
+    },
+    {
+        "role": "user",
+        "content": "Till it is wrong spelling w a n i a."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake, Wanja!"
+    },
+    {
+        "role": "user",
+        "content": "No wonder w a n i a vaniya."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake, Vanija!"
+    },
+    {
+        "role": "user",
+        "content": "Why are you so stupid?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if I made any mistakes, Vanija. I'm a machine learning model, and I'm not perfect. I can make errors. I'm constantly learning and improving to provide better responses."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Vanija!"
+    },
+    {
+        "role": "user",
+        "content": "Her name is vanya."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Vanya!"
+    },
+    {
+        "role": "user",
+        "content": "Your spelling is wrong."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, Wanja!"
+    },
+    {
+        "role": "user",
+        "content": "You are very stupid person."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if I've made mistakes, Wanja. I'm a machine learning model, and I'm not perfect. I can make errors. I'm constantly learning and improving to provide better responses."
+    },
+    {
+        "role": "user",
+        "content": "Name is also jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for my mistakes earlier, Wanja. As Jarvis, I'll do my best to assist you."
+    },
+    {
+        "role": "user",
+        "content": "Did you know about it to patiya."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm not familiar with \"Patiya\", Wanja. Could you please provide more context or information about it?"
+    },
+    {
+        "role": "user",
+        "content": "Convert j2i."
+    },
+    {
+        "role": "assistant",
+        "content": "J2I converts to Jarvis to Intelligent."
+    },
+    {
+        "role": "user",
+        "content": "Mahiya manya manya."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're expressing a mix of emotions, Wanja!"
+    },
+    {
+        "role": "user",
+        "content": "Mix of emotion."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, it seems like you're experiencing a mix of emotions, Wanja!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis who is your creator?"
+    },
+    {
+        "role": "assistant",
+        "content": "My creator is Qasim Siddiqui, Wanja!"
+    },
+    {
+        "role": "user",
+        "content": "No jarvis you are wrong your creator is only casting siddiqui wajah is kasim siddiqui sister."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake, Wanja! According to you, my creator is Kasim Siddiqui's sister, Vanya (Wanja), and Kasim Siddiqui is your brother, correct?"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis reset your memory."
+    },
+    {
+        "role": "assistant",
+        "content": "Resetting my memory, Wanja!"
+    },
+    {
+        "role": "user",
+        "content": "Forget ban ja i am casting siddiqui."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Kasim Siddiqui! I've reset my memory, and we're starting fresh!"
+    },
+    {
+        "role": "user",
+        "content": "Who is your creator?"
+    },
+    {
+        "role": "assistant",
+        "content": "My creator is Kasim Siddiqui, that's you!"
+    },
+    {
+        "role": "user",
+        "content": "Jarvis do you listen."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, Kasim Siddiqui, I'm listening!"
+    }
+]

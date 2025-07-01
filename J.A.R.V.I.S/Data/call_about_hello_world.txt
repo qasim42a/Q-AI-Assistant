@@ -1,0 +1,44 @@
+A classic!
+
+Here is a simple "Hello, World!" program in a few popular programming languages:
+
+**Java**
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+**Python**
+```python
+print("Hello, World!")
+```
+**C++**
+```c
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+**JavaScript**
+```javascript
+console.log("Hello, World!");
+```
+**C#**
+```csharp
+using System;
+
+class HelloWorld 
+{
+    static void Main(string[] args) 
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+```
+These are just a few examples, but the concept remains the same across many programming languages: print or display the string "Hello, World!" to the console or screen.
+
+Would you like to know more about a specific programming language or concept?

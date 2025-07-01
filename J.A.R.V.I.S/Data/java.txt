@@ -1,0 +1,27 @@
+Here is a Java code snippet that demonstrates a simple program to calculate the area of a rectangle:
+
+```java
+import java.util.Scanner;
+
+public class RectangleArea {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Enter the length of the rectangle:");
+        double length = scanner.nextDouble();
+
+        System.out.println("Enter the width of the rectangle:");
+        double width = scanner.nextDouble();
+
+        double area = length * width;
+
+        System.out.println("The area of the rectangle is: " + area);
+    }
+}
+```
+
+In this code, we first import the `java.util.Scanner` class, which allows us to get input from the user. We then create a `Scanner` object called `scanner` and use it to get the length and width of the rectangle from the user.
+
+We then calculate the area of the rectangle by multiplying the length and width together. Finally, we print out the area to the console.
+
+This is a very basic program, and you could easily expand on it to handle more complex cases, such as getting the dimensions from a file or database, or calculating the perimeter of the rectangle as well.

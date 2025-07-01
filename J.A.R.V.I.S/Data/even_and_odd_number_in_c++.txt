@@ -1,0 +1,58 @@
+Here is an article on "Even and Odd Numbers in C++":
+
+In programming, it is often necessary to determine whether a number is even or odd. In C++, you can use conditional statements to check whether a number is even or odd.
+
+An even number is a whole number that is exactly divisible by 2, whereas an odd number is a whole number that is not exactly divisible by 2.
+
+Here is a simple program in C++ that checks whether a number is even or odd:
+
+```cpp
+#include<iostream>
+using namespace std;
+
+int main() {
+    int num;
+
+    cout << "Enter a number: ";
+    cin >> num;
+
+    if(num % 2 == 0)
+        cout << num << " is an even number.";
+    else
+        cout << num << " is an odd number.";
+
+    return 0;
+}
+```
+
+In this program, we first take an integer input from the user. Then, we use the modulus operator `%` to find the remainder of the number when divided by 2. If the remainder is 0, the number is even; otherwise, it is odd.
+
+Here is another way to solve this problem using functions:
+
+```cpp
+#include<iostream>
+using namespace std;
+
+bool isEven(int num) {
+    if(num % 2 == 0)
+        return true;
+    else
+        return false;
+}
+
+int main() {
+    int num;
+
+    cout << "Enter a number: ";
+    cin >> num;
+
+    if(isEven(num))
+        cout << num << " is an even number.";
+    else
+        cout << num << " is an odd number.";
+
+    return 0;
+}
+```
+
+In this program, we define a function `isEven` that takes an integer as an argument and returns a boolean value indicating whether the number is even or odd. Then, we use this function in our main function to check whether the number is even or odd.
